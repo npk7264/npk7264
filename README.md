@@ -1,1 +1,1 @@
-### Hi there! I'm Khang 👋
+<h1 align="center">Hi 👋, I'm Nguyen Phuc Khang</h1>
