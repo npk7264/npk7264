@@ -1,6 +1,2 @@
 <h1>I'm Nguyen Phuc Khang</h1>
-<p>
-  I'm a student at University of Infomation Technology, VNU - Ho Chi Minh city
-  </br>
-  I'm currently learning AI, Mobile
-</p> 
+https://drive.google.com/file/d/12PJIrEVOQEyHLOOmaaU5xYV8ph6ljI5Z/view?usp=drive_link
